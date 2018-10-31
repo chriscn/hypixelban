@@ -1,6 +1,6 @@
 {
   "name": "hypixelban",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A fast easy to use for fetching information about a player's ban information.",
   "main": "index.js",
   "scripts": {
