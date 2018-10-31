@@ -1,0 +1,23 @@
+{
+  "name": "hypixelban",
+  "version": "1.0.0",
+  "description": "A fast easy to use for fetching information about a player's ban information.",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint --ignore-path .gitignore ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chriscn/hypixelban.git"
+  },
+  "keywords": [
+    "hypixel",
+    "api-wrapper"
+  ],
+  "author": "Christopher Nethercott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chriscn/hypixelban/issues"
+  },
+  "homepage": "https://github.com/chriscn/hypixelban#readme"
+}
