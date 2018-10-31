@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/chriscn/hypixelban/issues"
   },
-  "homepage": "https://github.com/chriscn/hypixelban#readme"
+  "homepage": "https://github.com/chriscn/hypixelban#readme",
+  "devDependencies": {
+    "eslint": "^5.8.0"
+  }
 }
